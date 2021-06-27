@@ -3,20 +3,10 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Jason Ansel, Marek Olszewski"
-    title: "BFTree - Scaling HotStuff to Millions of Validators"
-    month: "June"
+  - author: "Linfeng Zhang}, Jiebo Song, Anni Gao, Jingwei Chen, Chenglong Bao, Kaisheng Ma"
+    title: "Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation"
     year: "2019"
-    booktitle: "Whitepaper"
-    url: "https://medium.com/celohq/bftree-scaling-hotstuff-to-millions-of-validators-7d6930ee046a"
-
-  - author: "Dongqi Su, Ying Yin Ting, Jason Ansel"
-    title: "Tight Prediction Intervals Using Expanded Interval Minimization"
-    month: "June"
-    year: "2018"
-    booktitle: "Technical Report"
-    url: "https://arxiv.org/abs/1806.11222"
-
+    booktitle: "IEEE International Conference on Computer Vision (2019)"
 
 ---
 
