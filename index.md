@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/image2.jpg" class="floatpic" >
+<img src="/images/image2.jpg" class="floatpic" width=400  height=300 >
 
 My name is Linfeng Zhang. 
 I'm currently pursuing my Ph.D. degree under the supervision of [Prof. Kaisheng Ma] at [Institute for Interdisciplinary Information Sciences], Tsinghua University.
